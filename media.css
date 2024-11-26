@@ -1,0 +1,68 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+    .txt h1{
+        color:aqua;
+        font-weight: bold;
+        font-size: 30px ;
+    }
+    .txt h4{
+        font-weight: bold;
+        color:white;
+        font-size: 15px ;
+    }
+    .caru{
+        background-color: rgb(179, 156, 127);
+        padding: 10px;
+        width:60vh;
+    }
+    .pri{
+        font-size:24px;
+        color:rgb(2, 121, 121);
+    }
+    .po1{
+        color:blueviolet
+    }
+    .con{
+        width: 60vh;
+        align-items:center;
+    }
+    .ex{
+        color:rgb(135, 71, 121);
+        font-size:20px;
+    }
+    .edu{
+        font-size: 30px;
+        color:rgb(248, 12, 189)
+    }
+    .soft{
+        font-size:13px;
+        font-weight:700;
+        color:white;
+    }
+    .with{
+        text-align: center;
+        font-size: 30px;
+        color:rgb(248, 12, 189);
+        font-weight:600;
+    }
+
+    .forom{
+
+        width:50vh;
+    }
+    .me{
+        width:90%;
+        margin-left:0vh;
+    }
+    .lst{
+        width:90%;
+        margin-left:1px;
+    }
+    .lst h1{
+        font-size:18px;
+        color:aliceblue;
+    }
+    .last{
+        margin-top:5px;
+        margin-left:5px;
+    }
+}

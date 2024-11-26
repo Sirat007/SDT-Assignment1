@@ -1,0 +1,145 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.no {
+    padding: 20px;
+    margin: 50px;
+    background-image: url("./image/bc.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo-home{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+.logo-img{
+    width:80px;
+}
+.item{
+    display:flex;
+    margin-left: 10px;
+    padding:7px;
+    font-size: 15px;
+    color:rgb(227, 118, 29)
+}
+
+.home{
+    display:flex;
+    cursor:pointer;
+}
+.lower-part{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.img-2{
+    width: 150px;
+}
+.btn{
+    background-color: chocolate;
+}
+.txt2{
+    font-size: 20px;
+    color:white;
+}
+.txt-1{
+    font-size:40px;
+    font-weight: bold;
+    color:orange;
+
+}
+.about-text{
+    padding-left: 20px;
+}
+.pic{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    margin-top: 40px;
+    gap:5px;
+    margin-left:50px;
+    margin-bottom: 40px;
+}
+.services{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.service{
+    margin-bottom: 10px;
+    font-size:40px;
+}
+.detail{
+    display:flex;
+}
+.s1{
+    text-align: center;
+    width: 30vh;
+    padding: 15px;
+    margin: 20px;
+    border:10px solid grey;
+}
+.detail{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom:50px;
+}
+.last-part{
+    display:flex;
+    justify-content: space-around;
+}
+.txt{
+    color:black;
+}
+.btn{
+    color:rgb(87, 87, 211);
+    margin-bottom: 20px;
+    background-color:aqua;
+    border:none;
+    padding:10px 22px;
+    cursor:pointer;
+}
+.btn:hover{
+    color:burlywood;
+}
+i{
+    margin-top:30px;
+    color:brown;
+}
+.phone{
+    display:flex;
+    justify-items: flex-start;
+}
+.get{
+    margin-left:0px;
+}
+.num{
+    font-size:50px ;
+}
+.foot{
+    margin-left: 5%;
+    margin-top:50px;
+    background-color: rgb(19, 186, 119);
+}
+.ls1{
+    width:100px;
+}
+.with{
+    display:flex;
+}
+.footwor{
+    margin-top:40px;
+    display:flex;
+    justify-content: space-around;
+}
+.learn{
+    text-align: center;
+}
+
+
+.price{
+    text-align: center;
+}
